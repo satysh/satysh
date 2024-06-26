@@ -11,8 +11,7 @@
 <br />
 
 ### Languages and Tools:
-**Python**, **C++**, **SQL**, **Jupyter Notebook**, **Linux**, **Bash**, **Git**, **Scikit-learn**, **PostgreSQL**, **Qt**
-**Trello**, **CatBoost**, **LightGBM**
+**Python**, **C++**, **SQL**, **Bash**, **Scikit-learn**,  **CatBoost**, **LightGBM**, **PostgreSQL**, **Linux**, **Git**, **Qt**
 
 <br />
 <br />
