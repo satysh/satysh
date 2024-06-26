@@ -1,7 +1,7 @@
 ### Hi there, I'm Ilyas Satyshev - aka satysh 👋
 
 ## I'm a Data Analyst!
-- 🔭 I was working in Science for 6 years
+- 🔭 I have been working in the field of science for 6 years
 - ⚡ I like to explore data and find interesting things 
 
 
@@ -19,9 +19,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opa-oz&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satysh&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satysh&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satysh&hide=makefile,cmake,qmake)](https://github.com/anuraghazra/github-readme-stats)
 
 [telegram]: https://t.me/Satyshevi
 
