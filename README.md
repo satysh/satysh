@@ -11,7 +11,9 @@
 <br />
 
 ### Languages and Tools:
-**Python**, **C++**, **SQL**, **Bash**, **Scikit-learn**,  **CatBoost**, **LightGBM**, **PostgreSQL**, **Linux**, **Git**, **Qt**
+**python**, **jupyter notebook**, **pandas**, **numpy**, **scipy**, **matplotlib**, **seaborn**, 
+**scikit-learn**,  **catboost**, **lightgbm**, **sql**, **postgresql**, 
+**linux**, **git**, **qt**, **c++**, **bash**
 
 <br />
 <br />
