@@ -4,9 +4,11 @@
 - 🔭 I have been working in the field of science for 6 years
 - ⚡ I like to explore data and find interesting things 
 
+### Portfolio
+["goto"]["https://github.com/satysh/portfolio.git"]
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-x902pktl.png" />][telegram]
 
 <br />
 
