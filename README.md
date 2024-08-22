@@ -7,7 +7,7 @@
 ### [Portfolio](https://github.com/satysh/portfolio.git)
 
 ### Connect with me:
-[<img align="left" alt="satysh | Telegram" width="22px" src="https://static-00.iconduck.com/assets.00/telegram-icon-2048x2048-x902pktl.png" />][telegram]
+[<img align="left" alt="satysh | Telegram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s" />][telegram]
 
 <br />
 
