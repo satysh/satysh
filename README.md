@@ -1,7 +1,6 @@
 ### Hi there, I'm Ilyas Satyshev - aka satysh 👋
 
 ## I'm a Data Analyst!
-- 🔭 I have been working in the field of science for 6 years
 - ⚡ I like to explore data and find interesting things 
 
 ### [Portfolio](https://github.com/satysh/portfolio.git)
